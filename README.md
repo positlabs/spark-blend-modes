@@ -5,60 +5,60 @@ Photoshop blend mode patches for Spark AR.
 ![demo](./imgs/demo.gif)
 
 ### BlendAverage
-![average](./imgs/average.jpg)
+<img alt="average" src="./imgs/average.jpg" width="300"/>
 
 ### BlendLighten
-![lighten](./imgs/lighten.jpg)
+<img alt="lighten" src="./imgs/lighten.jpg" width="300"/>
 
 ### BlendLighten
-![pin-light](./imgs/pin-light.jpg)
+<img alt="pin-light" src="./imgs/pin-light.jpg" width="300"/>
 
 ### BlendColorBurn
-![color-burn](./imgs/color-burn.jpg)
+<img alt="color-burn" src="./imgs/color-burn.jpg" width="300"/>
 
 ### BlendLinearBurn
-![linear-burn](./imgs/linear-burn.jpg)
+<img alt="linear-burn" src="./imgs/linear-burn.jpg" width="300"/>
 
 ### BlendReflect
-![reflect](./imgs/reflect.jpg)
+<img alt="reflect" src="./imgs/reflect.jpg" width="300"/>
 
 ### BlendColorDodge
-![color-dodge](./imgs/color-dodge.jpg)
+<img alt="color-dodge" src="./imgs/color-dodge.jpg" width="300"/>
 
 ### BlendLinearDodge
-![linear-dodge](./imgs/linear-dodge.jpg)
+<img alt="linear-dodge" src="./imgs/linear-dodge.jpg" width="300"/>
 
 ### BlendScreen
-![screen](./imgs/screen.jpg)
+<img alt="screen" src="./imgs/screen.jpg" width="300"/>
 
 ### BlendDarken
-![darken](./imgs/darken.jpg)
+<img alt="darken" src="./imgs/darken.jpg" width="300"/>
 
 ### BlendMultiply
-![multiply](./imgs/multiply.jpg)
+<img alt="multiply" src="./imgs/multiply.jpg" width="300"/>
 
 ### BlendSoftLight
-![soft-light](./imgs/soft-light.jpg)
+<img alt="soft-light" src="./imgs/soft-light.jpg" width="300"/>
 
 ### BlendNegation
-![negation](./imgs/negation.jpg)
+<img alt="negation" src="./imgs/negation.jpg" width="300"/>
 
 ### BlendSubtract
-![subtract](./imgs/subtract.jpg)
+<img alt="subtract" src="./imgs/subtract.jpg" width="300"/>
 
 ### BlendExclusion
-![exclusion](./imgs/exclusion.jpg)
+<img alt="exclusion" src="./imgs/exclusion.jpg" width="300"/>
 
 ### BlendOverlay
-![overlay](./imgs/overlay.jpg)
+<img alt="overlay" src="./imgs/overlay.jpg" width="300"/>
 
 ### BlendVividLight
-![vivid-light](./imgs/vivid-light.jpg)
+<img alt="vivid-light" src="./imgs/vivid-light.jpg" width="300"/>
 
 ### BlendHardMix
-![hard-mix](./imgs/hard-mix.jpg)
+<img alt="hard-mix" src="./imgs/hard-mix.jpg" width="300"/>
 
 ### BlendPhoenix
-![phoenix](./imgs/phoenix.jpg)
+<img alt="phoenix" src="./imgs/phoenix.jpg" width="300"/>
 
-Thanks to [jamieowen/glsl-blend](https://github.com/jamieowen/glsl-blend)
+Thanks to [jamieowen/glsl-blend" src="https://github.com/jamieowen/glsl-blend)
