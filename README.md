@@ -2,7 +2,7 @@
 
 Photoshop blend mode patches for Spark AR.
 
-![demo](./imgs/demo.gif)
+<img src="./imgs/demo.gif" width="240"/>
 
 ### BlendAverage
 <img alt="average" src="./imgs/average.jpg" width="300"/>
