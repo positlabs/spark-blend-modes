@@ -10,7 +10,7 @@ Photoshop blend mode patches for Spark AR.
 ### BlendLighten
 <img alt="lighten" src="./imgs/lighten.jpg" width="300"/>
 
-### BlendLighten
+### BlendPinLight
 <img alt="pin-light" src="./imgs/pin-light.jpg" width="300"/>
 
 ### BlendColorBurn
@@ -61,4 +61,4 @@ Photoshop blend mode patches for Spark AR.
 ### BlendPhoenix
 <img alt="phoenix" src="./imgs/phoenix.jpg" width="300"/>
 
-Thanks to [jamieowen/glsl-blend" src="https://github.com/jamieowen/glsl-blend)
+Thanks to [jamieowen/glsl-blend](https://github.com/jamieowen/glsl-blend)
